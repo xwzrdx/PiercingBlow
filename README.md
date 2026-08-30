@@ -12,4 +12,5 @@ Server Emulator for Piercing Blow (a.k.a Point Blank &amp; Project Blackout)
 <img width="1435" height="914" alt="image" src="https://github.com/user-attachments/assets/74670033-539d-4b10-8cf7-4ed5d7d619fd" />
 <img width="711" height="370" alt="image" src="https://github.com/user-attachments/assets/2bf3834f-c158-4c9b-bcc5-afb3adc85785" />
 <img width="813" height="703" alt="image" src="https://github.com/user-attachments/assets/cf1a4470-4011-440a-81c5-7f8089dde27f" />
+<img width="1023" height="1100" alt="image" src="https://github.com/user-attachments/assets/696d92ce-bad3-467b-8a40-cd1221bcac23" />
 
