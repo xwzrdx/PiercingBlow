@@ -14,3 +14,4 @@ Server Emulator for Piercing Blow (a.k.a Point Blank &amp; Project Blackout)
 <img width="813" height="703" alt="image" src="https://github.com/user-attachments/assets/cf1a4470-4011-440a-81c5-7f8089dde27f" />
 <img width="1023" height="1100" alt="image" src="https://github.com/user-attachments/assets/696d92ce-bad3-467b-8a40-cd1221bcac23" />
 
+Discord: ``wzrd0001``
