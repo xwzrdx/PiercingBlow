@@ -9,7 +9,20 @@ Server Emulator for Piercing Blow (a.k.a Point Blank &amp; Project Blackout)
 * Shop
 * Player Currencies
 * Player Ranks
+* Player Settings
+* Channel Player List
+
+
+
+# To Do
+* FOV Changer
+* Viewmodel FOV Changer
+* Weapon Sway
+* True FPS
+* Stats (Battle Records, K/D/A, Headshot%
 * Room + Lobby Chat
+* Friend List
+* Clans
 
 
 
