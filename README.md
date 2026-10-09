@@ -12,7 +12,8 @@ Server Emulator for Piercing Blow (a.k.a Point Blank &amp; Project Blackout)
 * Player Settings
 * Channel Player List
 * Stats (Battle Records, K/D/A, Headshot%
-
+* Room + Lobby Chat
+* Ready & Start match
 
 
 # To Do
@@ -20,9 +21,9 @@ Server Emulator for Piercing Blow (a.k.a Point Blank &amp; Project Blackout)
 * Viewmodel FOV Changer
 * Weapon Sway
 * True FPS
-* Room + Lobby Chat
 * Friend List
 * Clans
+* Custom Modes (Gun Game, Hardcore, Tank, Headshot only, etc.)
 
 
 
