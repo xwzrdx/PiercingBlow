@@ -23,6 +23,10 @@ Server Emulator for Piercing Blow (a.k.a Point Blank &amp; Project Blackout)
 * True FPS
 * Friend List
 * Clans
+* Change Team
+* Change Host
+* Whisper
+* Kick from room & prevent re-entry
 * Custom Modes (Gun Game, Hardcore, Tank, Headshot only, etc.)
 
 
